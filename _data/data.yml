@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Utsav Majumdar
     tagline: GSM Intern
-    avatar: https://media.licdn.com/dms/image/D5603AQFeEED8WJkxHg/profile-displayphoto-shrink_800_800/0/1694067526144?e=1706745600&v=beta&t=-bUaVoBNdhBp-Y2S-EsYTw52hPBvwZJwnn0tgoipWNM  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Professional_reduced.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: umajumdar@tesla.com
